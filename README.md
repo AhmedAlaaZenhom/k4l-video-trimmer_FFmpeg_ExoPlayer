@@ -1,12 +1,12 @@
 
 
-### This project is the re-implementation of k4l-video-trimmer video trimming library(using the same UI) with FFmpeg(instead of IsoPasrer) & ExoPlayer(instead of videoView & mediaplayer)
+## This project is the re-implementation of k4l-video-trimmer video trimming library(using the same UI) with FFmpeg(instead of IsoPasrer) & ExoPlayer(instead of videoView & mediaplayer)
 
-### This re-implementation fixes the trimming time interval accuracy issues caused by videos with discrete & Spaced out sync frames
+## This re-implementation fixes the trimming time interval accuracy issues caused by videos with discrete & Spaced out sync frames
 
-# VideoTrimmer: https://github.com/titansgroup/k4l-video-trimmer
-# FFmpeg: https://github.com/bravobit/FFmpeg-Android
-# ExoPlayer: https://developer.android.com/guide/topics/media/exoplayer
+## VideoTrimmer: https://github.com/titansgroup/k4l-video-trimmer
+## FFmpeg: https://github.com/bravobit/FFmpeg-Android
+## ExoPlayer: https://developer.android.com/guide/topics/media/exoplayer
 
 #### This project aims to provide an ultimate and flexible video trimmer experience.
 
